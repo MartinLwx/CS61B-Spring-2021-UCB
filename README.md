@@ -20,6 +20,7 @@ The official website: http://sp21.datastructur.es.  **If you want a better readi
 ## Projects
 
 - [x] [proj0. 2048](./Projects/proj0)
+- [x] [proj1. Data Structure](./Projects/proj1)
 
 ## Looking for answers for other cs-courses ?
 
