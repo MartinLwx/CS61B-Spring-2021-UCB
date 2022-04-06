@@ -13,6 +13,7 @@ The official website: http://sp21.datastructur.es.  **If you want a better readi
 - [x] [lab02. JUnit Tests and Debugging](./Labs/lab2)
 - [x] [lab03. Timing Tests and Randomized Comparison Tests](./Labs/lab3)
 - [x] [lab04. Git and Debugging](./Labs/lab4)
+- [x] [lab06. Getting Started on Project 2](./Labs/lab6)
 
 ## Hws
 
